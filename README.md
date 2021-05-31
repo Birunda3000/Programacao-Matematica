@@ -13,3 +13,14 @@ Observações:
 * Variaveis devem ser adicionadas as expressões em ordem alfabetica
 * Selecione entre minimização ('MIN') e maximização ('MAX')
 * Para cada restrição fi, escreva na forma ['f1','f2'...'fn']
+
+
+Exemplo:
+Maximizar: 3x + y
+Com as restrições:
+x + y <= 100
+5x + 2y <= 300
+
+obj_func = '3x + y'
+obj = 'MAX'
+restricoes = ['x + y <= 100', '5x + 2y <= 300']
