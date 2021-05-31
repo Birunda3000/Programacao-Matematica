@@ -2,9 +2,9 @@
 Programacao Matematica 2021.1
 
 Clone o repositorio e use as variaveis
-*obj_func - função objetivo
-*obj - Maximização (MAX) ou Miminização (MIN)
-*restricoes - restrições (apenas "<=")
+* obj_func - função objetivo
+* obj - Maximização (MAX) ou Miminização (MIN)
+* restricoes - restrições (apenas "<=")
 no arquivo PM.ipynb (jupyter notebook) ou PM.py para definir o problema, depois execute
 * APENAS MAXIMIZAÇÃO IMPLEMENTADA E RESTRIÇÕES "<="
 * Variaveis devem ser adicionadas as expressões em ordem alfabetica
