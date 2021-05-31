@@ -1,5 +1,5 @@
 # Programacao Matematica
-Programacao Matematica 2021.1
+Atividade de Programacao Matematica 2021.1
 
 Clone o repositorio e use as variaveis
 * obj_func - função objetivo
