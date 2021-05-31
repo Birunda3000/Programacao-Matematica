@@ -6,7 +6,8 @@ Clone o repositorio e use as variaveis
 * obj - Maximização (MAX) ou Miminização (MIN)
 * restricoes - restrições (apenas "<=")
 
-no arquivo PM.ipynb (jupyter notebook) ou PM.py para definir o problema, depois execute
+No arquivo PM.ipynb (jupyter notebook) ou PM.py para definir o problema, depois execute
+
 Observações:
 * APENAS MAXIMIZAÇÃO IMPLEMENTADA E RESTRIÇÕES "<="
 * Variaveis devem ser adicionadas as expressões em ordem alfabetica
