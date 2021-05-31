@@ -6,7 +6,7 @@ Clone o repositorio e use as variaveis
 * obj - Maximização (MAX) ou Miminização (MIN)
 * restricoes - restrições (apenas "<=")
 
-No arquivo PM.ipynb (jupyter notebook) ou PM.py para definir o problema, depois execute
+No arquivo PM.ipynb (jupyter notebook) ou atribua por linha de comando no PM.py para definir o problema, depois execute
 
 Observações:
 * APENAS MAXIMIZAÇÃO IMPLEMENTADA E RESTRIÇÕES "<="
@@ -23,8 +23,10 @@ Com as restrições:
 * x + y <= 100
 * 5x + 2y <= 300
 
-No arquivo PM.ipynb (jupyter notebook) ou PM.py atribua os seguintes valores as variaveis
+No arquivo PM.ipynb (jupyter notebook)
 
 * obj_func = '3x + y'
 * obj = 'MAX'
 * restricoes = ['x + y <= 100', '5x + 2y <= 300']
+
+Ou atribua por linha de comando no PM.py
