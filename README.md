@@ -23,6 +23,8 @@ Com as restrições:
 * x + y <= 100
 * 5x + 2y <= 300
 
-obj_func = '3x + y'
-obj = 'MAX'
-restricoes = ['x + y <= 100', '5x + 2y <= 300']
+No arquivo PM.ipynb (jupyter notebook) ou PM.py atribua os seguintes valores as variaveis
+
+* obj_func = '3x + y'
+* obj = 'MAX'
+* restricoes = ['x + y <= 100', '5x + 2y <= 300']
