@@ -5,7 +5,7 @@ import simplex
 
 #recebendo variáveis por input:: iuezin da massa esteve aqui
 obj_func = input('defina a função do objeto: ')
-obj = input('defina o MAX: ')
+obj = input('defina objetivo MAX/MIN (apenas MAX implementado): ')
 restricoes = []
 while(True):
 
