@@ -4,7 +4,7 @@ import simplex
 # restricoes = ['x + y <= 200', '2x + 2y <= 600'] # ---DEFINA AS RESTRIÇÕES AQUI---
 
 #recebendo variáveis por input:: iuezin da massa esteve aqui
-obj_func = input('defina a função do objeto: ')
+obj_func = input('defina a função objetivo: ')
 obj = input('defina objetivo MAX/MIN (apenas MAX implementado): ')
 restricoes = []
 while(True):
