@@ -32,8 +32,11 @@ class Simplex:
             expr = expr.replace(" ", "")
             coefficients = re.findall("[a-z]", expr)
             if coefficients != sorted(coefficients):
-                raise ValueError("Utilize variáveis em sequência ordenada!")
-            pattern = ">=|\\+|\\-|<="
+                raise ValueError("Utilize variáveis em ordem alfabetica!")
+            #pattern = ">=|\\+|\\-|<="
+            
+            pattern = ">=|\\+|<="
+            
             separated_data = re.split(pattern, expr)
             values = []
             for coefficient in self.coefficients:
