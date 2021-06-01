@@ -30,3 +30,5 @@ No arquivo PM.ipynb (jupyter notebook)
 * restricoes = ['x + y <= 100', '5x + 2y <= 300']
 
 Ou atribua por linha de comando no PM.py
+
+Para utilizar valores negativos use o coeficiente -1, exemplo (2x -y) -> (2x + -1y)
