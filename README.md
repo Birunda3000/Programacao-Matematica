@@ -31,4 +31,4 @@ No arquivo PM.ipynb (jupyter notebook)
 
 Ou atribua por linha de comando no PM.py
 
-Para utilizar valores negativos use o coeficiente -1, exemplo (2x -y) -> (2x + -1y)
+Para utilizar valores negativos use o coeficiente -1 junto com o sinal de soma, exemplo, para adicionar a restrição 2x - y use '2x + -1y'
