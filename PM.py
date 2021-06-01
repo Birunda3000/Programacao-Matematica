@@ -26,5 +26,5 @@ if len(restricoes) > 0:
         simplex.add_constraints(k)
 solucao = simplex.solve()
 for var in simplex.coefficients:
-    print("Valor de {}: {}".format(var, solucao[var]))
-print('\n-Solução: {}-'.format(solucao['solution']))
+    print("Valor de {}: {}".format(var, round(meta[var], 5)))
+print('\n--  Solução: {0:.2f}  --'.format(solucao['solution']))
